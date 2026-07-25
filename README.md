@@ -1,4 +1,4 @@
-# 🧠 MedScanAI
+# 🧠 MedIScanAI
 
 A full-stack AI healthcare assistant powered by ⚛️ React (frontend), 📓 Jupyter Notebook (ML modeling), and ☁️ AWS (Lambda, S3, Bedrock, Lex, Textract). Users can input symptoms, upload PDFs, or chat for AI-driven medical insights.
 
